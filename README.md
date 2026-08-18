@@ -12,6 +12,7 @@ A Claude skill that writes, edits, and reviews technical documentation in the
 directory:
 
 ```sh
+mkdir -p ~/.claude/skills
 cp -r gdoc ~/.claude/skills/gdoc
 ```
 
