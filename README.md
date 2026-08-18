@@ -5,8 +5,9 @@ A Claude skill that writes, edits, and reviews technical documentation in the
 
 ## Install
 
-**Claude Desktop:** Open **Settings > Capabilities > Skills**, then upload
-`gdoc.skill`.
+**Claude Desktop:** If Claude Desktop is already installed, double-click
+`gdoc.skill` to install it. Otherwise, open **Settings > Customize > Skills**,
+then upload `gdoc.skill`.
 
 **Claude CLI (Claude Code):** Copy the `gdoc/` folder into your skills
 directory:
