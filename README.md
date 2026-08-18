@@ -16,7 +16,7 @@ mkdir -p ~/.claude/skills
 cp -r gdoc ~/.claude/skills/gdoc
 ```
 
-To scope the skill to a single project instead, copy it into that project's
+To use the skill in a single project only, copy it into that project's
 `.claude/skills/` directory.
 
 After you install the skill, ask Claude to write, review, or answer questions
